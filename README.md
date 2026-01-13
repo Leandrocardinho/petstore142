@@ -1,5 +1,8 @@
 # Petstore API Tests
 
+![Java](https://img.shields.io/badge/Java-11-informational)
+![Maven](https://img.shields.io/badge/Maven-3.8.0-blue)
+
 Automação de testes de API do Swagger Petstore para estudo e portfólio QA.
 Projeto desenvolvido para demonstrar habilidades em testes automatizados de APIs, boas práticas em Java e organização de testes.
 
@@ -38,8 +41,6 @@ Certifique-se de ter o Java e Maven instalados no seu computador.
 
 
 
-![Java](https://img.shields.io/badge/Java-11-informational)
-![Maven](https://img.shields.io/badge/Maven-3.8.0-blue)
 
 
 
